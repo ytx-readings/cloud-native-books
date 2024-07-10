@@ -8,12 +8,11 @@
 
 * [_Terraform: Up and Running_](./books/Terraform/dokumen.pub_terraform-up-and-running-writing-infrastructure-as-code-3nbsped-1098116747-9781098116743.pdf)
 
-
 ## [Kubernetes](./books/Kubernetes/)
 
 * [_Ansible for Kubernetes: Automate app deployment on any scale with Ansible and K8s_](./books/Kubernetes/Ansible%20for%20Kubernetes%20Automate%20app%20deployment%20on%20any%20scale%20with%20Ansible%20and%20K8s%20(Jeff%20Geerling)%20(Z-Library).pdf)
 * [_Cloud Native DevOps with Kubernetes_](./books/Kubernetes/Cloud%20Native%20DevOps%20with%20Kubernetes%20(John%20Arundel,%20Justin%20Domingus)%20(Z-Library).pdf)
-* [_Kubernetes Best Practices_](./books/Kubernetes/Kubernetes%20Best%20Practices%20(Brendan%20Burns,%20Eddie%20Villalba,%20Dave%20Strebel%20etc.)%20(Z-Library).epub)
+* [_Kubernetes Best Practices_](./books/Kubernetes/dokumen.pub_kubernetes-best-practices-blueprints-for-building-successful-applications-on-kubernetes-2nbsped-1098142160-9781098142162.pdf)
 * [_Kubernets in Action_](./books/Kubernetes/Kubernetes%20in%20Action%20(Marko%20Luksa)%20(Z-Library).pdf)
 * [_Kubernetes Microservices with Docker_](./books/Kubernetes/Kubernetes%20Microservices%20with%20Docker%20(Deepak%20Vohra)%20(Z-Library).pdf)
 * [_Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications_](./books/Kubernetes/Kubernetes%20Patterns%20Reusable%20Elements%20for%20Designing%20Cloud-Native%20Applications%20(Bilgin%20Ibryam,%20Roland%20Huß)%20(Z-Library).pdf)
