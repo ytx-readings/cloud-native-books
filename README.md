@@ -12,6 +12,10 @@
 * [_Programming Kubernetes: Developing Cloud-Native Applications_](./books/Kubernetes/dokumen.pub_programming-kubernetes-developing-cloud-native-applications-1nbsped-1492047104-9781492047100.pdf)
 * [_The Complete Kubernetes Guide: Become an expert in container management with the power of Kubernetes_](./books/Kubernetes/The%20Complete%20Kubernetes%20Guide%20Become%20an%20expert%20in%20container%20management%20with%20the%20power%20of%20Kubernetes%20(Jonathan%20Baier,%20Gigi%20Sayfan,%20Jesse%20White)%20(Z-Library).pdf)
 
+### [Helm](./books/Kubernetes/Helm/)
+
+* [_Learning Helm_](./books/Kubernetes/Helm/Learning%20Helm%20Managing%20Apps%20on%20Kubernetes%20(Matt%20Butcher,%20Matt%20Farina,%20Josh%20Dolitsky)%20(Z-Library).pdf)
+
 ## [RPC](./books/RPC/)
 
 * [_gRPC Up & Running: Building Cloud Native Applications with Go and Java for Docker and Kubernetes_](./books/RPC/gRPC%20Up%20%20Running%20Building%20Cloud%20Native%20Applications%20with%20Go%20and%20Java%20for%20Docker%20and%20Kubernetes%20(Kasun%20Indrasiri%20Danesh%20Kuruppu)%20(Z-Library).pdf)
